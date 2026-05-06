@@ -1,0 +1,12 @@
+node_modules
+.next
+out
+.env
+.env*.local
+.DS_Store
+
+# editor/tooling
+.claude/
+.vscode/
+.idea/
+*.log
