@@ -63,7 +63,7 @@ Additional enhancements:
 
 ---
 
-## 🤖 AI Travel Concierge
+##  AI Travel Concierge
 
 An AI-powered recommendation system built with **Claude Opus 4.7**.
 
