@@ -28,12 +28,7 @@ Icons: Lucide React
 
 Components: Headless UI / Radix UI (for accessible interactive elements)
 
- Project Structure
-Bash
-├── components/       # Reusable UI components (Card, Navbar, Filter, etc.)
-├── public/           # Static assets (images, icons, fonts)
-├── styles/           # Global styles and Tailwind configuration
-└── views/            # Main page layouts
+
  Getting Started
 To run this project locally, follow these steps:
 
