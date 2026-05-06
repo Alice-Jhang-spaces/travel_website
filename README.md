@@ -43,8 +43,7 @@ cd travel_website
 Install dependencies:
 
 Bash
-npm install
-# or
+npm install '#' or
 yarn install
 Run the development server:
 
